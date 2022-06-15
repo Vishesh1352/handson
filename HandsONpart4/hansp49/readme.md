@@ -1,0 +1,2 @@
+Using the code from the previous example, add a record to your map. Now print the map out
+using the “range” loop
